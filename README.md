@@ -26,6 +26,6 @@ vaday nua
 <img src= "https://images.unsplash.com/photo-1612172760424-6959cdd370d3?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80">
 link ne https://google.com hoac 
 
-- B1: Đăng ký một tài khoản tại [github](https://github.com) và đăng nhập
+Đăng ký một tài khoản tại [github](https://github.com) và đăng nhập
 [Google](https://google.com)
 
