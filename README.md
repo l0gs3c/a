@@ -27,6 +27,3 @@ vaday nua
 
 link ne https://google.com hoac [Google](https://google.com)
 
-Đăng ký một tài khoản tại [github](https://github.com) và đăng nhập
-[Google](https://google.com)
-
