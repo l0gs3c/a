@@ -1,7 +1,7 @@
 # tieu de 1
-'day la chu thich'
+`day la chu thich`
 
-''' va day nua'''
+``` va day nua```
 
 **in dam ne**
 
