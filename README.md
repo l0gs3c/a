@@ -3,6 +3,8 @@
 
 ``` va day nua```
 
+[Lightshot](https://app.prntscr.com/en/index.html)
+
 ```sh 
 vaday nua
 ```
