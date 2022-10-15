@@ -28,5 +28,3 @@ link ne https://google.com hoac
 
 [Google](https://google.com)
 
-[google](https://google.com)
-
