@@ -27,30 +27,3 @@ vaday nua
 
 link ne https://google.com hoac [Google](https://google.com)
 
-**Tạo ad -dc ??? =\> ko cần**
-
-*Zabbix agent (ZA)*
-
-[Zabbix Server (ZS)]{.underline}
-
-Web Server (ZA) ===== \|
-
-Mạng DMZ \| =======\| Firewall ==== Internet
-
-Monitoring(Zs) ======= \| \|
-
-Mạng Lan ====================\|
-
-Các bước thực hiện
-
-1.  Tạo Webserver =\> Tạo 1 Web
-
-2.  Cài đặt Firewall
-
-3.  Host web ra Internet
-
-4.  Cài đặt Zabbix trên 1 máy CentOS (Zabbix Server ) -- Cài đặt GUI
-
-5.  Cài đặt Zabbix trên WebServer (Zabbix Agent)
-
-6.  Cấu hình
